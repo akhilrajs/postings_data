@@ -3,8 +3,8 @@
 
 *OP* case presentation
 Presenter : *Bhuvana Roshini*
-Case : **
+Case : *Acute Glomerulonephritis*
 
 *Ward* case presentation
 Presenter : *Christina Molly Som*
-Case : **
+Case : *Tetrology of Fallot*
